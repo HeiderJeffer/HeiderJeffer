@@ -1,6 +1,6 @@
 <h1 align="center">Hi guys <img alt="👋" src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" />, I&#39;m Heider Jeffer</h1>
 
-<h3 align="center">I am a AI/ML/DL and HCI developer and software architect</h3>
+<h3 align="center">I am an AI/ML/DL and HCI developer and software architect</h3>
 
 <h3 align="center">Welcome to my page</h3>
 
@@ -39,12 +39,8 @@
 ### Operating Systems
 <a href="https://www.linux.org/" rel="noreferrer" target="_blank"><img alt="linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" /></a><a href="https://www.apple.com/macos/ventura/"><img src="https://e7.pngegg.com/pngimages/273/908/png-clipart-apple-logo-macbook-pro-apple-white-company-thumbnail.png" style="width: 40px; height: 40px;" /></a><a href="https://edge.dev.im.microsoft.com/en-us/windows?wa=wsignin1.0&amp;r=1"><img alt="windows logo logok 13475" src="https://www.freepnglogos.com/uploads/windows-logo-png/windows-logo-logok-0.png" style="float: left; height: 40px; width: 40px;" /></a>&nbsp;</h3>
 
-<p>&nbsp;</p>
-
+</p>
 <p><img align="left" alt="heiderjeffer" src="https://github-readme-stats.vercel.app/api/top-langs?username=heiderjeffer&amp;show_icons=true&amp;locale=en&amp;layout=compact" /></p>
 
 <p>&nbsp;<img align="center" alt="heiderjeffer" src="https://github-readme-stats.vercel.app/api?username=heiderjeffer&amp;show_icons=true&amp;locale=en" /></p>
-
 <p><img align="center" alt="heiderjeffer" src="https://github-readme-streak-stats.herokuapp.com/?user=heiderjeffer&amp;" /></p>
-</body>
-</html>
