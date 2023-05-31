@@ -1,7 +1,6 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Heider Jeffer</h1>
-<h3 align="center">I am a developer and software architect</h3>
-
+<h1 align="center">Hi guys<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">, I'm Heider Jeffer</h1>
+<h3 align="center">I am a ML/DL and HCI developer and software architect</h3>
+<h3 align="center">Welcome to my page</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heiderjeffer&label=Profile%20views&color=0e75b6&style=flat" alt="heiderjeffer" /> </p>
 
