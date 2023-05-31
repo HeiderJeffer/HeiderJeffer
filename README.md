@@ -6,8 +6,11 @@
 
 <p><img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
 
-### Programming Languages 
-<a href="https://www.python.org" rel="noreferrer" target="_blank"><img alt="python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a>&nbsp;<a href="https://www.java.com" rel="noreferrer" target="_blank"><img alt="java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer" target="_blank"><img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>&nbsp;<a href="https://www.php.net" rel="noreferrer" target="_blank"><img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width: 40px; height: 40px;" /></a>&nbsp;<a href="www.perl.org/"><img src="https://bluemarkacademy.com/wp-content/uploads/2021/01/perl.jpg" style="width: 40px; height: 40px;" /></a><br />
+### Programming Languages
+<a href="https://www.python.org" rel="noreferrer" target="_blank"><img alt="python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a>&nbsp;<a href="https://www.java.com" rel="noreferrer" target="_blank"><img alt="java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer" target="_blank"><img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>&nbsp;<a href="https://www.php.net" rel="noreferrer" target="_blank"><img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width: 40px; height: 40px;" /></a>&nbsp;<a href="www.perl.org/"><img src="https://bluemarkacademy.com/wp-content/uploads/2021/01/perl.jpg" style="width: 40px; height: 40px;" /></a>&nbsp;<br />
+<br />
+### Task Automation
+<a href="https://www.gnu.org/software/bash/"><img src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42-428x400.png" style="width: 40px; height: 40px;" /></a>&nbsp;<a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/powershell"><img alt="CDN media" src="https://i.redd.it/cvt4kgax95071.png" style="width: 40px; height: 40px;" /></a>&nbsp;<a href="https://github.com/microsoft/terminal"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Windows_Terminal_logo.svg/1280px-Windows_Terminal_logo.svg.png" style="width: 40px; height: 40px;" /></a><br />
 <br />
 ### Frontend Development
 <a href="https://www.w3.org/html/" rel="noreferrer" target="_blank"><img alt="html5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a>&nbsp;<a href="https://www.w3schools.com/css/" rel="noreferrer" target="_blank"><img alt="css3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></a>&nbsp;<a href="https://getbootstrap.com" rel="noreferrer" target="_blank"><img alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="width: 40px; height: 40px;" /></a>&nbsp;<br />
@@ -27,7 +30,7 @@
 ### Framework
 <a href="https://www.djangoproject.com/" rel="noreferrer" target="_blank"><img alt="django" height="40" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" /></a>&nbsp;<br />
 <br />
-### Graphics editor
+### Graphics Editor
 <a href="https://www.photoshop.com/en" rel="noreferrer" target="_blank"><img alt="photoshop" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" /></a>&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" rel="noreferrer" target="_blank"><img alt="illustrator" height="40" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" /></a>&nbsp;<a href="https://www.adobe.com/products/xd.html" rel="noreferrer" target="_blank"><img alt="xd" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="width: 40px; height: 40px;" /></a>&nbsp;<a href="https://www.blackmagicdesign.com/products/davinciresolve"><img alt="File:DaVinci Resolve 17 logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/65px-DaVinci_Resolve_17_logo.svg.png?20211228192035" style="height: 40px; width: 40px;" /></a>&nbsp;<a href="https://www.blender.org/"><img alt="File:Blender logo no text.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" style="height: 40px; width: 40px;" /></a></p>
 
 ### Software
@@ -43,3 +46,5 @@
 <p>&nbsp;<img align="center" alt="heiderjeffer" src="https://github-readme-stats.vercel.app/api?username=heiderjeffer&amp;show_icons=true&amp;locale=en" /></p>
 
 <p><img align="center" alt="heiderjeffer" src="https://github-readme-streak-stats.herokuapp.com/?user=heiderjeffer&amp;" /></p>
+</body>
+</html>
