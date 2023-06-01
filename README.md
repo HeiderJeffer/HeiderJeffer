@@ -1,6 +1,6 @@
 <h1 align="center">Hello world <img alt="👋" src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" />, I&#39;m Heider Jeffer</h1>
-<h3 align="center">I am a Ph.D Student </p> Research Interest: AI/ML/DL and HCI </p> I am Developer, Software Engineer, and Software Architect</h3>
-<h3 align="center">Welcome To My Page</h3>
+<h3 align="center">I am a Ph.D Student </p> Research Interest: AI/ML/DL and HCI </p> I am Developer, Software Engineer, and Software Architect </p>Welcome To My Page </h3>
+
 
 
 
