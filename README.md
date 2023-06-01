@@ -2,6 +2,8 @@
 <h3 align="center">| Ph.D Student | Developer | Software Engineer | Software Architect |</p> | Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction |</h3>
 <h3 align="center">Welcome to my page</h3>
 
+<p><img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
+
 ### Programming Languages
 <a href="https://www.python.org" rel="noreferrer" target="_blank"><img alt="python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a>&nbsp;<a href="https://www.java.com" rel="noreferrer" target="_blank"><img alt="java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer" target="_blank"><img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>&nbsp;<a href="https://www.php.net" rel="noreferrer" target="_blank"><img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width: 40px; height: 40px;" /></a>&nbsp;<a href="https://www.perl.org/"><img src="https://bluemarkacademy.com/wp-content/uploads/2021/01/perl.jpg" style="width: 30px; height: 30px;" /></a> 
 
@@ -36,4 +38,3 @@
 ### Operating Systems
 <p><a href="https://www.microsoft.com/en-us/windows"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/2321px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" style="width: 40px; height: 40px;" /></a>&nbsp;<a href="https://www.linux.org/" rel="noreferrer" target="_blank"><img alt="linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" /></a>&nbsp;<a href="https://www.apple.com/"><img alt="m" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/256px-Icon-Mac.svg.png" style="width: 40px; height: 40px;" /></a> 
 
-<p><img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
