@@ -1,6 +1,9 @@
 <h1 align="center">Hello world <img alt="👋" src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" />, I&#39;m Heider Jeffer</h1>
-<h3 align="center">I am an AI/ML/DL and HCI developer and software architect</h3>
-<h3 align="center">Welcome to my page</h3>
+<h3 align="center">I am a Ph.D Student </p> Research Interest: AI/ML/DL and HCI </p> I am Developer, Software Engineer, and Software Architect</h3>
+<h3 align="center">Welcome To My Page</h3>
+
+
+
 
 ### Programming Languages
 <a href="https://www.python.org" rel="noreferrer" target="_blank"><img alt="python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a>&nbsp;<a href="https://www.java.com" rel="noreferrer" target="_blank"><img alt="java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer" target="_blank"><img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>&nbsp;<a href="https://www.php.net" rel="noreferrer" target="_blank"><img alt="php" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="width: 40px; height: 40px;" /></a>&nbsp;<a href="https://www.perl.org/"><img src="https://bluemarkacademy.com/wp-content/uploads/2021/01/perl.jpg" style="width: 30px; height: 30px;" /></a> 
