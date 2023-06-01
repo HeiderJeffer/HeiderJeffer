@@ -38,3 +38,8 @@
 ### Operating Systems
 <p><a href="https://www.microsoft.com/en-us/windows"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg/2321px-Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg.png" style="width: 40px; height: 40px;" /></a>&nbsp;<a href="https://www.linux.org/" rel="noreferrer" target="_blank"><img alt="linux" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" /></a>&nbsp;<a href="https://www.apple.com/"><img alt="m" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/256px-Icon-Mac.svg.png" style="width: 40px; height: 40px;" /></a> 
 
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heiderjeffer&show_icons=true&locale=en&layout=compact" alt="heiderjeffer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heiderjeffer&show_icons=true&locale=en" alt="heiderjeffer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heiderjeffer&" alt="heiderjeffer" /></p>
+  
