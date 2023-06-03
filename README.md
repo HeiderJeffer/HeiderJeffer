@@ -1,10 +1,70 @@
-<h1 align="center">Hello world <img alt="👋" src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" />, I am Heider Jeffer</h1>
-<h3 align="center">Ph.D Student | Researcher | Developer | Software Engineer | Software Architect</p>Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction</h3>
-<h3 align="center">Welcome to my page</h3>
+<body>
+<h1 style="text-align: justify;"><strong>Hello world&nbsp;<a href="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; text-decoration-line: none;" target="_blank"><img alt="👋" src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" style="box-sizing: content-box; border-style: none; max-width: 100%; background-color: var(--color-canvas-default);" width="28px" /></a>, I am Heider Jeffer</strong></h1>
 
-<p><img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
+<p style="text-align: justify;">Ph.D Student | Researcher | Developer | Software Engineer | Software Architect<br />
+Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction<br />
+<br />
+<img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" />&nbsp;</p>
 
+<table align="left" border="1" cellpadding="1" cellspacing="1" style="width: 980px;">
+	<tbody>
+		<tr>
+			<td><span class="marker"><strong>Programming Languages</strong></span></td>
+			<td><span class="marker">Python / Java / PHP / Java Scrips / Perl</span></td>
+		</tr>
+		<tr>
+			<td><span class="marker"><strong>Task Automation</strong></span></td>
+			<td><span class="marker">CMD / PowerShell / Bash</span></td>
+		</tr>
+		<tr>
+			<td><span class="marker"><strong>Frontend Developmen</strong></span></td>
+			<td><span class="marker">HTML 5 / CSS / Bootstrap</span></td>
+		</tr>
+		<tr>
+			<td><span class="marker"><strong>Mobile App Development</strong></span></td>
+			<td><span class="marker">Android Studio / Kotlin</span></td>
+		</tr>
+		<tr>
+			<td><span class="marker"><strong>AI/ML/DL</strong></span></td>
+			<td><span class="marker">Cyberbotics / Pandas / TensorFlow / Scikit-Learn / Seaborn / OpenCV / PyTorch</span></td>
+		</tr>
+		<tr>
+			<td><span class="marker"><strong>Database</strong></span></td>
+			<td><span class="marker">Docker / Jenkins</span></td>
+		</tr>
+		<tr>
+			<td><span class="marker"><strong>Framework</strong></span></td>
+			<td><span class="marker">Django</span></td>
+		</tr>
+		<tr>
+			<td><span class="marker"><strong>Software</strong></span></td>
+			<td><span class="marker">Git / Scilab / Matlab / Postman</span></td>
+		</tr>
+		<tr>
+			<td><span class="marker"><strong>Graphics Editor and Design</strong></span></td>
+			<td><span class="marker">Photoshop /&nbsp;</span>Illustrator&nbsp;<span class="marker">/ OBS / DaVinci resolve / Gif / Shotcut / Blender / Kdenlive / Gimp / kdenlive</span></td>
+		</tr>
+		<tr>
+			<td><span class="marker"><strong>Operating Systems</strong></span></td>
+			<td><span class="marker">Linux / Windows / Mac Apple</span></td>
+		</tr>
+		<tr>
+			<td><span class="marker"><strong>Document Preparation</strong></span></td>
+			<td><span class="marker">Office Tools (LibreOffice, Microsoft Office) / Latex</span></td>
+		</tr>
+		<tr>
+			<td><span class="marker"><strong>Web Server</strong></span></td>
+			<td><span class="marker">XAMPP / Tomcat Appache</span></td>
+		</tr>
+		<tr>
+			<td><span class="marker">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+</body>
 
+<!--
 ### Programming Languages
 Python / Java / PHP / Java Scrips / Perl
 ### Task Automation
@@ -30,7 +90,7 @@ Office Tools (LibreOffice, Microsoft Office) / Latex
 ### Web Server
 XAMPP / Tomcat Appache
 
-<!--
+
 
 <img align="right" alt="Coding" width="200" src="https://im4.ezgif.com/tmp/ezgif-4-1e0a8a5b10.webp">
 <body>
