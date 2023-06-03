@@ -5,6 +5,30 @@
 <p><img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
 
 
+### Programming Languages
+Python / Java / PHP / Java Scrips / Perl
+### Task Automation
+CMD / PowerShell / Bash
+### Frontend Development
+HTML 5 / CSS / Bootstrap
+### Mobile App Development
+Android Studio / Kotlin
+### AI/ML/DL
+Cyberbotics / Pandas / TensorFlow / Scikit-Learn / Seaborn / OpenCV / PyTorch
+### Database
+Docker / Jenkins
+### Framework
+Django
+### Software
+Git / Scilab / Matlab / Postman
+### Graphics Editor and Design
+Adobe Photoshop / OBS / DaVinci resolve / Gif / Shotcut / Blender / Kdenlive / Gimp / kdenlive / Adobe Illustrator
+### Operating Systems
+Linux / Windows / Mac Apple
+### Document Preparation
+Office Tools (LibreOffice, Microsoft Office) / Latex
+### Web Server
+XAMPP / Tomcat Appache
 
 <!--
 
