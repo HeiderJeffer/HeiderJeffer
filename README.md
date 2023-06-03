@@ -1,10 +1,16 @@
 <body>
 <h1 style="text-align: justify;"><strong>Hello world&nbsp;<a href="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; text-decoration-line: none;" target="_blank"><img alt="👋" src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" style="box-sizing: content-box; border-style: none; max-width: 100%; background-color: var(--color-canvas-default);" width="28px" /></a>, I am Heider Jeffer</strong></h1>
 
-<p style="text-align: justify;">Ph.D Student | Researcher | Developer | Software Engineer | Software Architect<br />
-Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction<br />
-<br />
-<img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" />&nbsp;</p>
+<table border="1" cellpadding="1" cellspacing="1" style="width: 980px;">
+	<tbody>
+		<tr>
+			<td><span style="text-align: justify;">Ph.D Student | Researcher | Developer | Software Engineer | Software Architect</span><br style="text-align: justify;" />
+			<span style="text-align: justify;">Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="text-align: justify;"><img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" />&nbsp;</p>
 
 <table align="left" border="1" cellpadding="1" cellspacing="1" style="width: 980px;">
 	<tbody>
