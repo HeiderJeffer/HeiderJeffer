@@ -2,15 +2,12 @@
 <h3 align="center">Ph.D Student | Researcher | Developer | Software Engineer | Software Architect</p>Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction</h3>
 <h3 align="center">Welcome to my page</h3>
 
+<p><img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
+
 <img align="right" alt="Coding" width="400" src="https://im4.ezgif.com/tmp/ezgif-4-1e0a8a5b10.webp">
 
 <!--
 
-
-
-
-
-<p><img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
 
 <body>
 
