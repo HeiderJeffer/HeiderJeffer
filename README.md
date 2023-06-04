@@ -10,8 +10,10 @@
 	</tbody>
 </table>
 
+	
 <p style="text-align: justify;"><img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" />&nbsp;</p>
 
+	
 <table align="left" border="1" cellpadding="1" cellspacing="1" style="width: 980px;">
 	<tbody>
 		<tr>
