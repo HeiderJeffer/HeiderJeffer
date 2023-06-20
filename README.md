@@ -8,65 +8,66 @@
 			<span style="text-align: justify;">Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction</span></td>
 		</tr>
 	</tbody>
-</table>
 
-	
+
+<body>
 <p style="text-align: justify;"><img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" />&nbsp;</p>
 
-	
 <table align="left" border="1" cellpadding="1" cellspacing="1" style="width: 980px;">
 	<tbody>
 		<tr>
-			<td><span class="marker"><strong>Programming Languages</strong></span></td>
-			<td><span class="marker">Python / Java / PHP / Java Scrips / Perl</span></td>
+			<td><span class="marker">Programming Languages</span></td>
+			<td><span class="marker"><a href="https://www.python.org/">Python</a> / <a href="https://www.eclipse.org/">Java </a>/ <a href="https://www.phpmyadmin.net/">PHP</a> / </span><a href="https://www.w3schools.com/js/">Java Scripts</a><span class="marker"> / <a href="https://www.perl.org/">Perl</a></span></td>
 		</tr>
 		<tr>
-			<td><span class="marker"><strong>Task Automation</strong></span></td>
-			<td><span class="marker">CMD / PowerShell / Bash</span></td>
+			<td><span class="marker">Task Automation</span></td>
+			<td><span class="marker"><a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd">CMD</a> / <a href="https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3">PowerShell </a>/ <a href="https://www.gnu.org/software/bash/">Bash</a></span></td>
 		</tr>
 		<tr>
-			<td><span class="marker"><strong>Frontend Developmen</strong></span></td>
-			<td><span class="marker">HTML 5 / CSS / Bootstrap</span></td>
+			<td><span class="marker">Frontend Developmen</span></td>
+			<td><span class="marker"><a href="https://www.w3schools.com/html/">HTML 5</a> /<a href="https://www.w3schools.com/css/"> CSS </a>/ <a href="https://getbootstrap.com/">Bootstrap</a></span></td>
 		</tr>
 		<tr>
-			<td><span class="marker"><strong>Mobile App Development</strong></span></td>
-			<td><span class="marker">Android Studio / Kotlin</span></td>
+			<td><span class="marker">Mobile App Development</span></td>
+			<td><span class="marker"><a href="https://developer.android.com/studio">Android Studio</a> / <a href="https://kotlinlang.org/">Kotlin</a></span></td>
 		</tr>
 		<tr>
-			<td><span class="marker"><strong>AI/ML/DL</strong></span></td>
-			<td><span class="marker">Cyberbotics / Pandas / TensorFlow / Scikit-Learn / Seaborn / OpenCV / PyTorch</span></td>
+			<td><span class="marker">AI/ML/DL</span></td>
+			<td><span class="marker"><a href="https://cyberbotics.com/">Cyberbotics</a> / <a href="https://pandas.pydata.org/">Pandas </a>/ <a href="https://www.tensorflow.org/">TensorFlow </a>/ <a href="https://scikit-learn.org/stable/">Scikit-Learn </a>/ <a href="https://seaborn.pydata.org/">Seaborn </a>/<a href="https://opencv.org/"> OpenCV </a>/ <a href="https://pytorch.org/">PyTorch</a></span></td>
 		</tr>
 		<tr>
-			<td><span class="marker"><strong>Database</strong></span></td>
-			<td><span class="marker">Docker / Jenkins</span></td>
+			<td><span class="marker">Database</span></td>
+			<td><span class="marker"><a href="https://www.docker.com/">Docker</a> / <a href="https://www.jenkins.io/">Jenkins</a></span></td>
 		</tr>
 		<tr>
-			<td><span class="marker"><strong>Framework</strong></span></td>
-			<td><span class="marker">Django</span></td>
+			<td><span class="marker">Framework</span></td>
+			<td><a href="https://www.djangoproject.com/"><span class="marker"><font color="#000000">Django</font></span></a></td>
 		</tr>
 		<tr>
-			<td><span class="marker"><strong>Software</strong></span></td>
-			<td><span class="marker">Git / Scilab / Matlab / Postman</span></td>
+			<td><span class="marker">Software</span></td>
+			<td><span class="marker"><a href="https://git-scm.com/">Git</a> /&nbsp;</span><a href="https://desktop.github.com/">GitHub Desktop</a><span class="marker">/<a href="https://www.scilab.org/"> Scilab</a>/ <a href="https://www.mathworks.com/products/matlab.html">Matlab </a>/ <a href="https://www.postman.com/">Postman</a></span></td>
 		</tr>
 		<tr>
-			<td><span class="marker"><strong>Graphics Editor and Design</strong></span></td>
-			<td><span class="marker">Photoshop /&nbsp;</span>Illustrator&nbsp;<span class="marker">/ OBS / DaVinci resolve / Gif / Shotcut / Blender / Kdenlive / Gimp / kdenlive</span></td>
+			<td><span class="marker">Graphics Editor and Design</span></td>
+			<td><span class="marker"><a href="https://www.adobe.com/products/photoshop.html">Photoshop</a> /&nbsp;</span><a href="https://www.adobe.com/products/illustrator.html#:~:text=Adobe%20Illustrator%20is%20the%20industry,for%20Patterns%20or%20Global%20Edits.">Illustrator&nbsp;</a><span class="marker">/ <a href="https://obsproject.com/">OBS </a>/ <a href="https://www.blackmagicdesign.com/products/davinciresolve">DaVinci resolve </a>/ <a href="https://ezgif.com/maker">Gif </a>/ <a href="https://shotcut.org/">Shotcut </a>/ <a href="https://www.blender.org/">Blender </a>/ <a href="https://kdenlive.org/en/">Kdenlive </a>/ <a href="https://www.gimp.org/">Gimp&nbsp;</a></span></td>
 		</tr>
 		<tr>
-			<td><span class="marker"><strong>Operating Systems</strong></span></td>
-			<td><span class="marker">Linux / Windows / Mac Apple</span></td>
+			<td><span class="marker">Operating Systems</span></td>
+			<td><span class="marker"><a href="https://www.kernel.org/">Linux</a> / <a href="https://www.microsoft.com/en-us/windows">Windows </a>/ <a href="https://support.apple.com/guide/mac-help/welcome/mac">Mac Apple</a></span></td>
 		</tr>
 		<tr>
-			<td><span class="marker"><strong>Document Preparation</strong></span></td>
-			<td><span class="marker">Office Tools (LibreOffice, Microsoft Office) / Latex</span></td>
+			<td><span class="marker">Document Preparation</span></td>
+			<td><span class="marker">Office Tools (<a href="https://www.libreoffice.org/">LibreOffice</a>, <a href="https://www.office.com/">Microsoft Office</a>) / <a href="https://www.overleaf.com/">Latex</a></span></td>
 		</tr>
 		<tr>
-			<td><span class="marker"><strong>Web Server</strong></span></td>
-			<td><span class="marker">XAMPP / Tomcat Appache</span></td>
+			<td><span class="marker">Web Server</span></td>
+			<td><span class="marker"><a href="https://www.apachefriends.org/">XAMPP</a> /&nbsp;</span><a href="https://tomcat.apache.org/">Tomcat Apache</a></td>
 		</tr>
 	</tbody>
 </table>
 </body>
+
+
 <!--
 ### Programming Languages
 Python / Java / PHP / Java Scrips / Perl
