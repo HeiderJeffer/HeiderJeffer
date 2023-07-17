@@ -1,16 +1,22 @@
 <body>
-<h1 style="text-align: justify;"><strong>Hello world&nbsp;<a href="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; text-decoration-line: none;" target="_blank"><img alt="👋" src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" style="box-sizing: content-box; border-style: none; max-width: 100%; background-color: var(--color-canvas-default);" width="28px" /></a>, I am Heider Jeffer</strong></h1>
-
-<table border="1" cellpadding="1" cellspacing="1" style="width: 980px;">
+<table border="1" cellpadding="0" cellspacing="0" style="width:721px;" width="721">
 	<tbody>
 		<tr>
-			<td><span style="text-align: justify;">Ph.D Student | Researcher | Developer | Software Engineer | Software Architect</span><br style="text-align: justify;" />
-			<span style="text-align: justify;">Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction</span></td>
+			<td style="width:719px;">
+			<p><strong>Hello World, I am </strong><a href="https://github.com/HeiderJeffer"><strong>Heider Jeffer</strong></a></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:32px;">
+			<p><strong>PhD Student | Researcher | Developer | Software Engineer | Software Architect<br />
+			Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction<br />
+			H</strong><strong>istory | Archival Science| Digital Humanities| Media Technology | Sociology </strong></p>
+			</td>
 		</tr>
 	</tbody>
+</table>
+</body>
 
-
-<body>
 <p style="text-align: justify;"><img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" />&nbsp;</p>
 
 <table align="left" border="1" cellpadding="1" cellspacing="1" style="width: 980px;">
