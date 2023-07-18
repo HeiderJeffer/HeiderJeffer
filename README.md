@@ -10,7 +10,7 @@
 			<td style="height:32px;">
 			<p><strong>PhD Student | Researcher | Developer | Software Engineer | Software Architect<br />
 			Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction<br />
-			H</strong><strong>istory | Archival Science| Digital Humanities| Media Technology | Sociology </strong></p>
+			H</strong><strong>istory | Archival Science | Digital Humanities | Media Technology | Sociology </strong></p>
 			</td>
 		</tr>
 	</tbody>
