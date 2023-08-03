@@ -25,8 +25,12 @@
 			<td><span class="marker"><a href="https://www.python.org/">Python</a> / <a href="https://www.eclipse.org/">Java </a>/ <a href="https://www.phpmyadmin.net/">PHP</a> / </span><a href="https://www.w3schools.com/js/">Java Scripts</a><span class="marker"> / <a href="https://www.perl.org/">Perl</a></span></td>
 		</tr>
 		<tr>
-			<td><span style="font-size: 13.5pt; line-height: 107%; font-family: &quot;Times New Roman&quot;, serif;">Qualitative data analysis</span></td>
-			<td><span style="font-size: 13.5pt; line-height: 107%; font-family: &quot;Times New Roman&quot;, serif;"><a href="https://lumivero.com/products/nvivo/">NVivo</a> / <a href="https://atlasti.com/">Atlas ti</a></span></td>
+			<td><span style="line-height: 107%;">Qualitative data analysis</span></td>
+			<td><span style="line-height: 107%;"><a href="https://lumivero.com/products/nvivo/">NVivo</a> / <a href="https://atlasti.com/">Atlas ti</a></span></td>
+		</tr>
+		<tr>
+			<td>Data analysis and Statistical Computing</td>
+			<td><font color="#000000"><a href="https://www.minitab.com/en-us/">Minitab</a>&nbsp;</font>/&nbsp;<span style="font-size: 10pt; line-height: 107%; font-family: Georgia, serif;"><a href="https://www.r-project.org/">R Project</a></span><font color="#000000">&nbsp;</font></td>
 		</tr>
 		<tr>
 			<td><span class="marker">Task Automation</span></td>
@@ -50,7 +54,7 @@
 		</tr>
 		<tr>
 			<td><span class="marker">Framework</span></td>
-			<td><span style="font-size: 13.5pt; line-height: 107%; font-family: &quot;Times New Roman&quot;, serif;"><a href="https://www.djangoproject.com/">Django</a></span></td>
+			<td><span style="line-height: 107%;"><a href="https://www.djangoproject.com/">Django</a></span></td>
 		</tr>
 		<tr>
 			<td><span class="marker">Software</span></td>
@@ -144,4 +148,5 @@ XAMPP / Tomcat Appache
 <p>&nbsp;<img align="center"  data-cke-saved-src="https://github-readme-stats.vercel.app/api?username=heiderjeffer&show_icons=true&locale=en" src="https://github-readme-stats.vercel.app/api?username=heiderjeffer&show_icons=true&locale=en" alt="heiderjeffer" /></p>
 <p><img align="center"  data-cke-saved-src="https://github-readme-streak-stats.herokuapp.com/?user=heiderjeffer&" src="https://github-readme-streak-stats.herokuapp.com/?user=heiderjeffer&" alt="heiderjeffer" /></p>
   
-
+  
+  
