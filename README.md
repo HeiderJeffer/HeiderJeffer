@@ -8,7 +8,7 @@
 		</tr>
 		<tr>
 			<td style="height:32px;">
-			<p><strong>PhD Student | Researcher | Developer | Software Engineer | Software Architect<br />
+			<p><strong>Researcher | Developer | Software Engineer | Software Architect<br />
 			Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction<br />
 			History Science| Archival Science| Digital Humanities| Media Technology| Food Sciences| Nutrition<br />
 			Public Health| Consumer Psychology| Human Behaviour| Sustainability| Social Science<br />
