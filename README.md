@@ -3,10 +3,7 @@
 	<tbody>
 		<tr>
 			<td style="width:719px;">
-			<p><strong>Hello World, I am </strong><a href="https://github.com/HeiderJeffer"><strong>Heider Jeffer</strong></a>
-			
-<p> Here is <a href="https://github.com/HeiderJeffer/CV-Heider-Jeffer/blob/main/CV%20-%20Heider%20Jeffer.pdf">CV - Heider Jeffer</a>			
-   </p>
+			<p><strong>Hello World, I am </strong><a href="https://github.com/HeiderJeffer"><strong>Heider Jeffer</strong></a>&nbsp;,<strong> Here is</strong> <strong><a href="https://github.com/HeiderJeffer/CV-Heider-Jeffer/blob/main/CV%20-%20Heider%20Jeffer.pdf">CV-Heider Jeffer</a>&nbsp;!</strong></p>
 			</td>
 		</tr>
 		<tr>
