@@ -9,9 +9,9 @@
 		<tr>
 			<td style="height:32px;">
 			<p><strong> Welcome to the website of Dr. Heider Jeffer: Researcher| Developer| Software Engineer| Software Architect<br />
-			Artificial Intelligence| Machine Learning| Deep Learning| Human Computer Interaction<br />
-			History Science| Archival Science| Digital Humanities| Media Technology| Food Sciences| Nutrition<br />
-			Public Health| Consumer Psychology| Human Behaviour| Sustainability| Social Science<br />
+			Artificial Intelligence| Machine Learning| Deep Learning| Simulation Modelation and Optimazition <br />
+			Human Computer Interaction| History Science| Archival Science| Digital Humanities| Media Technology <br />
+			Food Sciences| Nutrition| Public Health| Consumer Psychology| Human Behaviour| Sustainability| Social Science<br />
 			Climate Science| Environmental Science| Criminology</strong></p>
 			</td>
 		</tr>
