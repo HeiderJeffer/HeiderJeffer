@@ -3,16 +3,16 @@
 	<tbody>
 		<tr>
 			<td style="width:719px;">
-			<p><strong>Hello World, I am </strong><a href="https://github.com/HeiderJeffer"><strong> Dr. Heider Jeffer</strong></a>&nbsp;,<strong> Here is</strong> <strong><a href="https://drive.google.com/file/d/1uB9mCDG4rAQJqDdvVBxFBpQ_tI-OG6tU/view?usp=drive_link">CV-Heider Jeffer</a>&nbsp;!</strong></p>
+			<p><strong>Hello World, I am </strong><a href="https://github.com/HeiderJeffer"><strong> Doctor Heider Jeffer</strong></a>&nbsp;,<strong> Here is my</strong> <strong><a href="https://drive.google.com/file/d/1uB9mCDG4rAQJqDdvVBxFBpQ_tI-OG6tU/view?usp=drive_link">CV-Heider Jeffer</a>&nbsp;!</strong></p>
 			</td>
 		</tr>
 		<tr>
 			<td style="height:32px;">
-			<p><strong>PhD Student| Researcher | Developer | Software Engineer | Software Architect<br />
-			Artificial Intelligence | Machine Learning | Deep Learning | Human Computer Interaction<br />
+			<p><strong> Welcome to the website of Dr. Heider Jeffer: Researcher| Developer| Software Engineer| Software Architect<br />
+			Artificial Intelligence| Machine Learning| Deep Learning| Human Computer Interaction<br />
 			History Science| Archival Science| Digital Humanities| Media Technology| Food Sciences| Nutrition<br />
 			Public Health| Consumer Psychology| Human Behaviour| Sustainability| Social Science<br />
-			Climate Science | Environmental Science</strong></p>
+			Climate Science| Environmental Science| Criminology</strong></p>
 			</td>
 		</tr>
 	</tbody>
