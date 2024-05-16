@@ -1,25 +1,54 @@
+
+
+
 <body>
-<table border="1" cellpadding="0" cellspacing="0" style="width:721px;" width="721">
-	<tbody>
-		<tr>
-			<td style="width:719px;">
-			<p><strong>Hello World, I am </strong><a href="https://github.com/HeiderJeffer"><strong> Doctor Heider Jeffer</strong></a>&nbsp;,<strong> Here is my</strong> <strong><a href="https://drive.google.com/file/d/1uB9mCDG4rAQJqDdvVBxFBpQ_tI-OG6tU/view?usp=drive_link">CV-Heider Jeffer</a>&nbsp;!</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="height:32px;">
-			<p><strong> Welcome to the website of Dr. Heider Jeffer: Researcher| Developer| Software Engineer| Software Architect<br />
-			Artificial Intelligence| Machine Learning| Deep Learning| Simulation Modelation and Optimazition <br />
-			Human Computer Interaction| History Science| Archival Science| Digital Humanities| Media Technology <br />
-			Food Sciences| Nutrition| Public Health| Consumer Psychology| Human Behaviour| Sustainability| Social Science<br />
-			Climate Science| Environmental Science| Criminology</strong></p>
-			</td>
-		</tr>
-	</tbody>
-</table>
+<p>Hello World, I am&nbsp;<a href="https://github.com/HeiderJeffer">Doctor Heider Jeffer</a>&nbsp;,&nbsp;Here is my&nbsp;<a href="https://drive.google.com/file/d/1uB9mCDG4rAQJqDdvVBxFBpQ_tI-OG6tU/view?usp=drive_link">CV-Heider Jeffer</a>&nbsp;!</p>
 
 <p style="text-align: justify;"><img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" />&nbsp;</p>
 
+<p>Welcome to the website of Dr. Heider Jeffer: Researcher| Developer| Software Engineer| Software Architect<br />
+Artificial Intelligence| Machine Learning| Deep Learning| Simulation Modelation and Optimazition<br />
+Human Computer Interaction| History Science| Archival Science| Digital Humanities| Media Technology<br />
+Food Sciences| Nutrition| Public Health| Consumer Psychology| Human Behaviour| Sustainability| Social Science<br />
+Climate Science| Environmental Science| Criminology</p>
+
+<p><strong>SKILLS</strong><br />
+Programming Languages: <a href="https://www.python.org/">Python</a> / <a href="https://www.eclipse.org/">Java</a> / <a href="https://www.phpmyadmin.net/">PHP</a> / <a href="https://www.w3schools.com/js/">Java Scripts</a> / <a href="https://www.perl.org/">Perl</a><br />
+Qualitative data analysis: <a href="https://lumivero.com/products/nvivo/">NVivo</a> / <a href="https://atlasti.com/">Atlas ti</a><br />
+Data analysis and Statistical Computing: <a href="https://www.minitab.com/en-us/">Minitab</a> / <a href="https://www.r-project.org/">R Project</a><br />
+Task Automation: <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd">CMD</a> / <a href="https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3">PowerShell</a> / <a href="https://www.gnu.org/software/bash/">Bash</a><br />
+Frontend Development: <a href="https://www.w3schools.com/html/">HTML 5</a> /<a href="https://www.w3schools.com/css/"> CSS</a> / <a href="https://getbootstrap.com/">Bootstrap</a><br />
+Mobile App Development: <a href="https://developer.android.com/studio">Android Studio</a> / <a href="https://kotlinlang.org/">Kotlin</a><br />
+Artificial Intelligence: <a href="https://cyberbotics.com/">Cyberbotics</a> / <a href="https://pandas.pydata.org/">Pandas</a> / <a href="https://www.tensorflow.org/">TensorFlow</a> / <a href="https://scikit-learn.org/stable/">Scikit-Learn</a> / <a href="https://seaborn.pydata.org/">Seaborn</a> /<a href="https://opencv.org/"> OpenCV</a> / <a href="https://pytorch.org/">PyTorch</a><br />
+Database: <a href="https://www.docker.com/">Docker</a> / <a href="https://www.jenkins.io/">Jenkins</a><br />
+Framework: <a href="https://www.djangoproject.com/">Django</a><br />
+Software: <a href="https://git-scm.com/">Git</a> / <a href="https://desktop.github.com/">GitHub Desktop</a>/<a href="https://www.scilab.org/"> Scilab</a>/ <a href="https://www.mathworks.com/products/matlab.html">Matlab</a> / <a href="https://www.postman.com/">Postman</a><br />
+Graphics Design: <a href="https://www.adobe.com/products/photoshop.html">Photoshop</a> / <a href="https://www.adobe.com/products/illustrator.html#%3A~%3Atext%3DAdobe%20Illustrator%20is%20the%20industry%2Cfor%20Patterns%20or%20Global%20Edits">Illustrator</a> / <a href="https://obsproject.com/">OBS</a> / <a href="https://www.blackmagicdesign.com/products/davinciresolve">DaVinci resolve</a> / <a href="https://ezgif.com/maker">Gif</a> / <a href="https://shotcut.org/">Shotcut</a> / <a href="https://www.blender.org/">Blender</a> / <a href="https://kdenlive.org/en/">Kdenlive</a> / <a href="https://www.gimp.org/">Gimp </a><br />
+Operating Systems: <a href="https://www.kernel.org/">Linux</a> / <a href="https://www.microsoft.com/en-us/windows">Windows</a> / <a href="https://support.apple.com/guide/mac-help/welcome/mac">Mac Apple</a><br />
+Document Preparation: Office Tools (<a href="https://www.libreoffice.org/">LibreOffice</a>, <a href="https://www.office.com/">Microsoft Office</a>) / <a href="https://www.overleaf.com/">Latex</a><br />
+Web Server: <a href="https://www.apachefriends.org/">XAMPP</a> / <a href="https://tomcat.apache.org/">Tomcat Apache</a></p>
+
+<p><strong>PROJECTS</strong><br />
+<a href="https://drive.google.com/drive/folders/1jw7D6sPe303Ky1bxFcIY8Xjzj2v76jax">PhD LAB, Researches, Artificial Intelligence, Machine Learning and Deep Learning </a><br />
+<a href="https://github.com/HeiderJeffer/Lean-Start-Up">Lean Start-Up</a><br />
+<a href="https://github.com/HeiderJeffer/Statistical-Methods">Statistical Methods<br />
+Software Process Management</a><br />
+<a href="https://github.com/HeiderJeffer/Requirements-and-Design-of-Software-Systems">Requirements and Design of Software Systems</a><br />
+<a href="https://github.com/HeiderJeffer/Institutional-Communication">Institutional Communication</a><br />
+<a href="https://github.com/HeiderJeffer/Seminars-in-Human-Machine-Interaction">Seminars in Human Machine Interaction</a><br />
+<a href="https://github.com/HeiderJeffer/Technical-and-Scientific-Communication/">Technical and Scienti<strong>fi</strong>c Communication</a><br />
+<a href="https://github.com/HeiderJeffer/System-Security">System Security</a><br />
+<a href="https://github.com/HeiderJeffer/Advanced-Internet-Technologies">Advanced Internet Technologies</a><br />
+<a href="https://github.com/HeiderJeffer/Software-Reliability-and-Testing">Software Reliability and Testing</a><br />
+<a href="https://github.com/HeiderJeffer/Research-Methods">Research Methods</a><br />
+<a href="https://github.com/HeiderJeffer/Mobile-Systems-Engineering">Mobile Systems Engineering</a><br />
+<a href="https://github.com/HeiderJeffer/Seminars-in-Software-and-IT-Engineering">Seminars in Software and IT Engineering</a><br />
+<a href="https://github.com/HeiderJeffer/Semantic-Web">Semantic-Web</a></p>
+</body>
+
+
+
+<!--
 <table align="left" border="1" cellpadding="1" cellspacing="1" style="width: 980px;">
 	<tbody>
 		<tr>
@@ -80,7 +109,30 @@
 		</tr>
 	</tbody>
 </table>
-<!--
+<body>
+<table border="1" cellpadding="0" cellspacing="0" style="width:721px;" width="721">
+	<tbody>
+		<tr>
+			<td style="width:719px;">
+			<p><strong>Hello World, I am </strong><a href="https://github.com/HeiderJeffer"><strong> Doctor Heider Jeffer</strong></a>&nbsp;,<strong> Here is my</strong> <strong><a href="https://drive.google.com/file/d/1uB9mCDG4rAQJqDdvVBxFBpQ_tI-OG6tU/view?usp=drive_link">CV-Heider Jeffer</a>&nbsp;!</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="height:32px;">
+			<p><strong> Welcome to the website of Dr. Heider Jeffer: Researcher| Developer| Software Engineer| Software Architect<br />
+			Artificial Intelligence| Machine Learning| Deep Learning| Simulation Modelation and Optimazition <br />
+			Human Computer Interaction| History Science| Archival Science| Digital Humanities| Media Technology <br />
+			Food Sciences| Nutrition| Public Health| Consumer Psychology| Human Behaviour| Sustainability| Social Science<br />
+			Climate Science| Environmental Science| Criminology</strong></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+
+
 ### Programming Languages
 Python / Java / PHP / Java Scrips / Perl
 ### Task Automation
