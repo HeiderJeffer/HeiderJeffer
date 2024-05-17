@@ -1,6 +1,3 @@
-
-
-
 <body>
 <p>Hello World, I am&nbsp;<a href="https://github.com/HeiderJeffer">Doctor Heider Jeffer</a>&nbsp;,&nbsp;Here is my&nbsp;<a href="https://drive.google.com/file/d/1uB9mCDG4rAQJqDdvVBxFBpQ_tI-OG6tU/view?usp=drive_link">CV-Heider Jeffer</a>&nbsp;!</p>
 
@@ -12,7 +9,20 @@ Human Computer Interaction| History Science| Archival Science| Digital Humanitie
 Food Sciences| Nutrition| Public Health| Consumer Psychology| Human Behaviour| Sustainability| Social Science<br />
 Climate Science| Environmental Science| Criminology</p>
 
-<p><strong>SKILLS</strong><br />
+<p><strong>EDUCATION</strong><br />
+2022 <a href="https://www.unibz.it/">Master of Science Degree in Computer Science - Free University of Bozen-Bolzano</a><br />
+2014 <a href="https://master-robotics.ethz.ch/">Studied Master of Science in Robotics, Systems and Control - ETH Z&uuml;rich</a><br />
+2014 <a href="https://www.usi.ch/en/education/master/artificial-intelligence?utm_term=artificial%20intelligence%20msc&amp;utm_campaign=Master+Artificial+Intelligence+//+EN+%5BCorsi%5D&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=2874806784&amp;hsa_cam=751685933&amp;hsa_grp=147043581540&amp;hsa_ad=648689631091&amp;hsa_src=g&amp;hsa_tgt=kwd-302905493642&amp;hsa_kw=artificial%20intelligence%20msc&amp;hsa_mt=b&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gad_source=1&amp;gclid=Cj0KCQjw3ZayBhDRARIsAPWzx8pqFL90g1gPDBe1dobsMvkR_Swl4tgLUsFSM-Cwy1fnUF-n9dTxE7YaAoc4EALw_wcB">Studied Master of Science Degree in Arti<strong>fi</strong>cial Intelligence - Universit&agrave; della Svizzera italiana</a><br />
+2008 <a href="https://en.uobaghdad.edu.iq/">Bachelor of Science Degree in Physics - University of Baghdad</a><br />
+2004 <a href="https://muc.edu.iq/en">Bachelor of Science Degree in Operation Research - Al Mansour University College</a></p>
+
+<p><strong>WORK EXPERIENCE</strong><br />
+From 2017 Heider Jeffer on <a href="https://www.ebay.it/usr/heidejeffe_0">eBay</a></p>
+
+<p><strong>LANGUAGES</strong><br />
+Arabic English Italian</p>
+
+<p><strong>SKILLS&nbsp; </strong><br />
 Programming Languages: <a href="https://www.python.org/">Python</a> / <a href="https://www.eclipse.org/">Java</a> / <a href="https://www.phpmyadmin.net/">PHP</a> / <a href="https://www.w3schools.com/js/">Java Scripts</a> / <a href="https://www.perl.org/">Perl</a><br />
 Qualitative data analysis: <a href="https://lumivero.com/products/nvivo/">NVivo</a> / <a href="https://atlasti.com/">Atlas ti</a><br />
 Data analysis and Statistical Computing: <a href="https://www.minitab.com/en-us/">Minitab</a> / <a href="https://www.r-project.org/">R Project</a><br />
@@ -29,7 +39,7 @@ Document Preparation: Office Tools (<a href="https://www.libreoffice.org/">Libre
 Web Server: <a href="https://www.apachefriends.org/">XAMPP</a> / <a href="https://tomcat.apache.org/">Tomcat Apache</a></p>
 
 <p><strong>PROJECTS</strong><br />
-<a href="https://drive.google.com/drive/folders/1jw7D6sPe303Ky1bxFcIY8Xjzj2v76jax">PhD LAB, Researches, Artificial Intelligence, Machine Learning and Deep Learning </a><br />
+<a href="https://drive.google.com/drive/folders/1jw7D6sPe303Ky1bxFcIY8Xjzj2v76jax">PhD LAB, Research, Artificial Intelligence, Machine Learning and Deep Learning </a><br />
 <a href="https://github.com/HeiderJeffer/Lean-Start-Up">Lean Start-Up</a><br />
 <a href="https://github.com/HeiderJeffer/Statistical-Methods">Statistical Methods<br />
 Software Process Management</a><br />
@@ -44,6 +54,11 @@ Software Process Management</a><br />
 <a href="https://github.com/HeiderJeffer/Mobile-Systems-Engineering">Mobile Systems Engineering</a><br />
 <a href="https://github.com/HeiderJeffer/Seminars-in-Software-and-IT-Engineering">Seminars in Software and IT Engineering</a><br />
 <a href="https://github.com/HeiderJeffer/Semantic-Web">Semantic-Web</a></p>
+
+<p><br />
+<strong>HOBBIES AND INTERESTS</strong><br />
+<a href="https://en.wikipedia.org/wiki/Historiography">Historiography</a> | <a href="https://en.wikipedia.org/wiki/Archaeology">Archaeology</a> | <a href="https://en.wikipedia.org/wiki/Agronomy">Agronomy</a> | <a href="https://en.wikipedia.org/wiki/Swimming">Swimming</a> |<a href="https://en.wikipedia.org/wiki/Camping"> Camping</a> | <a href="https://en.wikipedia.org/wiki/Documentary_film">Documentaries</a> | <a href="https://en.wikipedia.org/wiki/Chronometry">Horology</a> | <a href="https://en.wikipedia.org/wiki/Underwater_diving">Diving</a> | <a href="https://en.wikipedia.org/wiki/Fountain_pen">Fountain Pens</a> | <a href="https://en.wikipedia.org/wiki/Film">Movies</a></p>
+
 </body>
 
 
