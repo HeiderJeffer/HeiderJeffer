@@ -39,11 +39,11 @@ Document Preparation: Office Tools (<a href="https://www.libreoffice.org/">Libre
 Web Server: <a href="https://www.apachefriends.org/">XAMPP</a> / <a href="https://tomcat.apache.org/">Tomcat Apache</a></p>
 
 <p><strong>PROJECTS</strong><br />
-<a href="https://drive.google.com/drive/folders/1jw7D6sPe303Ky1bxFcIY8Xjzj2v76jax">PhD LAB, Research, Artificial Intelligence, Machine Learning and Deep Learning </a><br />
+<a href="https://drive.google.com/drive/folders/1jw7D6sPe303Ky1bxFcIY8Xjzj2v76jax">PhD LAB, Research, Artificial Intelligence, Machine Learning and Deep Learning</a><br />
 <a href="https://github.com/HeiderJeffer/Gilgamesh">Master Thesis: Why Hardware Startups Fail</a><br />
 <a href="https://github.com/HeiderJeffer/Lean-Start-Up">Lean Start-Up</a><br />
-<a href="https://github.com/HeiderJeffer/Statistical-Methods">Statistical Methods<br />
-Software Process Management</a><br />
+<a href="https://github.com/HeiderJeffer/Statistical-Methods">Statistical Methods</a><br />
+<a href="https://github.com/HeiderJeffer/Software-Process-and-Project-Management">Software Process Management</a><br />
 <a href="https://github.com/HeiderJeffer/Requirements-and-Design-of-Software-Systems">Requirements and Design of Software Systems</a><br />
 <a href="https://github.com/HeiderJeffer/Institutional-Communication">Institutional Communication</a><br />
 <a href="https://github.com/HeiderJeffer/Seminars-in-Human-Machine-Interaction">Seminars in Human Machine Interaction</a><br />
@@ -53,8 +53,7 @@ Software Process Management</a><br />
 <a href="https://github.com/HeiderJeffer/Software-Reliability-and-Testing">Software Reliability and Testing</a><br />
 <a href="https://github.com/HeiderJeffer/Research-Methods">Research Methods</a><br />
 <a href="https://github.com/HeiderJeffer/Mobile-Systems-Engineering">Mobile Systems Engineering</a><br />
-<a href="https://github.com/HeiderJeffer/Seminars-in-Software-and-IT-Engineering">Seminars in Software and IT Engineering</a><br />
-<a href="https://github.com/HeiderJeffer/Semantic-Web">Semantic-Web</a></p>
+<a href="https://github.com/HeiderJeffer/Seminars-in-Software-and-IT-Engineering">Seminars in Software and IT Engineering</a></p>
 
 <strong>HOBBIES AND INTERESTS</strong><br />
 <a href="https://en.wikipedia.org/wiki/Historiography">Historiography</a> | <a href="https://en.wikipedia.org/wiki/Archaeology">Archaeology</a> | <a href="https://en.wikipedia.org/wiki/Agronomy">Agronomy</a> | <a href="https://en.wikipedia.org/wiki/Swimming">Swimming</a> |<a href="https://en.wikipedia.org/wiki/Camping"> Camping</a> | <a href="https://en.wikipedia.org/wiki/Documentary_film">Documentaries</a> | <a href="https://en.wikipedia.org/wiki/Chronometry">Horology</a> | <a href="https://en.wikipedia.org/wiki/Underwater_diving">Diving</a> | <a href="https://en.wikipedia.org/wiki/Fountain_pen">Fountain Pens</a> | <a href="https://en.wikipedia.org/wiki/Film">Movies</a></p>
