@@ -10,33 +10,17 @@ Food Sciences| Nutrition| Public Health| Consumer Psychology| Human Behaviour| S
 Climate Science| Environmental Science| Criminology</p>
 
 <p><strong>EDUCATION</strong><br />
-2022 <a href="https://www.unibz.it/">Master of Science Degree in Computer Science - Free University of Bozen-Bolzano</a><br />
-2014 <a href="https://master-robotics.ethz.ch/">Studied Master of Science in Robotics, Systems and Control - ETH Z&uuml;rich</a><br />
-2014 <a href="https://www.usi.ch/en/education/master/artificial-intelligence?utm_term=artificial%20intelligence%20msc&amp;utm_campaign=Master+Artificial+Intelligence+//+EN+%5BCorsi%5D&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=2874806784&amp;hsa_cam=751685933&amp;hsa_grp=147043581540&amp;hsa_ad=648689631091&amp;hsa_src=g&amp;hsa_tgt=kwd-302905493642&amp;hsa_kw=artificial%20intelligence%20msc&amp;hsa_mt=b&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gad_source=1&amp;gclid=Cj0KCQjw3ZayBhDRARIsAPWzx8pqFL90g1gPDBe1dobsMvkR_Swl4tgLUsFSM-Cwy1fnUF-n9dTxE7YaAoc4EALw_wcB">Studied Master of Science Degree in Arti<strong>fi</strong>cial Intelligence - Universit&agrave; della Svizzera italiana</a><br />
-2008 <a href="https://en.uobaghdad.edu.iq/">Bachelor of Science Degree in Physics - University of Baghdad</a><br />
-2004 <a href="https://muc.edu.iq/en">Bachelor of Science Degree in Operation Research - Al Mansour University College</a></p>
+2022 <a href="https://www.unibz.it/">Free University of Bozen-Bolzano</a>, MSc in Computer Science.<br />
+2008 <a href="https://en.uobaghdad.edu.iq/">University of Baghdad</a>, BSc in Physics.<br />
+2004 <a href="https://muc.edu.iq/en">Al Mansour University College</a>, BSc in Operation Research.<br />
+2014 <a href="https://ethz.ch/en.html">ETH Z&uuml;rich</a>, Partial coursework completed towards&nbsp;MSc in Robotics, Systems and Control.<br />
+2014 <a href="https://www.usi.ch/en">Universit&agrave; della Svizzera italiana</a>, Partial coursework completed towards&nbsp;MSc in Artificial Intelligence.</p>
 
 <p><strong>WORK EXPERIENCE</strong><br />
-From 2017 Heider Jeffer on <a href="https://www.ebay.it/usr/heidejeffe_0">eBay</a></p>
+2017 Seller on eBay <a href="https://www.ebay.it/usr/heidejeffe_0">eBay</a></p>
 
-<p><strong>LANGUAGES</strong><br />
-Arabic English Italian</p>
-
-<p><strong>SKILLS&nbsp; </strong><br />
-Programming Languages: <a href="https://www.python.org/">Python</a> / <a href="https://www.eclipse.org/">Java</a> / <a href="https://www.phpmyadmin.net/">PHP</a> / <a href="https://www.w3schools.com/js/">Java Scripts</a> / <a href="https://www.perl.org/">Perl</a><br />
-Qualitative data analysis: <a href="https://lumivero.com/products/nvivo/">NVivo</a> / <a href="https://atlasti.com/">Atlas ti</a><br />
-Data analysis and Statistical Computing: <a href="https://www.minitab.com/en-us/">Minitab</a> / <a href="https://www.r-project.org/">R Project</a><br />
-Task Automation: <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd">CMD</a> / <a href="https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3">PowerShell</a> / <a href="https://www.gnu.org/software/bash/">Bash</a><br />
-Frontend Development: <a href="https://www.w3schools.com/html/">HTML 5</a> /<a href="https://www.w3schools.com/css/"> CSS</a> / <a href="https://getbootstrap.com/">Bootstrap</a><br />
-Mobile App Development: <a href="https://developer.android.com/studio">Android Studio</a> / <a href="https://kotlinlang.org/">Kotlin</a><br />
-Artificial Intelligence: <a href="https://cyberbotics.com/">Cyberbotics</a> / <a href="https://pandas.pydata.org/">Pandas</a> / <a href="https://www.tensorflow.org/">TensorFlow</a> / <a href="https://scikit-learn.org/stable/">Scikit-Learn</a> / <a href="https://seaborn.pydata.org/">Seaborn</a> /<a href="https://opencv.org/"> OpenCV</a> / <a href="https://pytorch.org/">PyTorch</a><br />
-Database: <a href="https://www.docker.com/">Docker</a> / <a href="https://www.jenkins.io/">Jenkins</a><br />
-Framework: <a href="https://www.djangoproject.com/">Django</a><br />
-Software: <a href="https://git-scm.com/">Git</a> / <a href="https://desktop.github.com/">GitHub Desktop</a>/<a href="https://www.scilab.org/"> Scilab</a>/ <a href="https://www.mathworks.com/products/matlab.html">Matlab</a> / <a href="https://www.postman.com/">Postman</a><br />
-Graphics Design: <a href="https://www.adobe.com/products/photoshop.html">Photoshop</a> / <a href="https://www.adobe.com/products/illustrator.html#%3A~%3Atext%3DAdobe%20Illustrator%20is%20the%20industry%2Cfor%20Patterns%20or%20Global%20Edits">Illustrator</a> / <a href="https://obsproject.com/">OBS</a> / <a href="https://www.blackmagicdesign.com/products/davinciresolve">DaVinci resolve</a> / <a href="https://ezgif.com/maker">Gif</a> / <a href="https://shotcut.org/">Shotcut</a> / <a href="https://www.blender.org/">Blender</a> / <a href="https://kdenlive.org/en/">Kdenlive</a> / <a href="https://www.gimp.org/">Gimp </a><br />
-Operating Systems: <a href="https://www.kernel.org/">Linux</a> / <a href="https://www.microsoft.com/en-us/windows">Windows</a> / <a href="https://support.apple.com/guide/mac-help/welcome/mac">Mac Apple</a><br />
-Document Preparation: Office Tools (<a href="https://www.libreoffice.org/">LibreOffice</a>, <a href="https://www.office.com/">Microsoft Office</a>) / <a href="https://www.overleaf.com/">Latex</a><br />
-Web Server: <a href="https://www.apachefriends.org/">XAMPP</a> / <a href="https://tomcat.apache.org/">Tomcat Apache</a></p>
+<p><strong>LANGUAGES SKILLS</strong><br />
+Arabic (Primary language), English (Full professional proficiency), Italian (Intermediate). </p>
 
 <p><strong>PROJECTS</strong><br />
 <a href="https://drive.google.com/drive/folders/1jw7D6sPe303Ky1bxFcIY8Xjzj2v76jax">PhD LAB, Research, Artificial Intelligence, Machine Learning and Deep Learning</a><br />
@@ -54,6 +38,24 @@ Web Server: <a href="https://www.apachefriends.org/">XAMPP</a> / <a href="https:
 <a href="https://github.com/HeiderJeffer/Research-Methods">Research Methods</a><br />
 <a href="https://github.com/HeiderJeffer/Mobile-Systems-Engineering">Mobile Systems Engineering</a><br />
 <a href="https://github.com/HeiderJeffer/Seminars-in-Software-and-IT-Engineering">Seminars in Software and IT Engineering</a></p>
+
+
+
+<p><strong>DIGITAL SKILLS&nbsp; </strong><br />
+Programming Languages: <a href="https://www.python.org/">Python</a> / <a href="https://www.eclipse.org/">Java</a> / <a href="https://www.phpmyadmin.net/">PHP</a> / <a href="https://www.w3schools.com/js/">Java Scripts</a> / <a href="https://www.perl.org/">Perl</a><br />
+Qualitative data analysis: <a href="https://lumivero.com/products/nvivo/">NVivo</a> / <a href="https://atlasti.com/">Atlas ti</a><br />
+Data analysis and Statistical Computing: <a href="https://www.minitab.com/en-us/">Minitab</a> / <a href="https://www.r-project.org/">R Project</a><br />
+Task Automation: <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd">CMD</a> / <a href="https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3">PowerShell</a> / <a href="https://www.gnu.org/software/bash/">Bash</a><br />
+Frontend Development: <a href="https://www.w3schools.com/html/">HTML 5</a> /<a href="https://www.w3schools.com/css/"> CSS</a> / <a href="https://getbootstrap.com/">Bootstrap</a><br />
+Mobile App Development: <a href="https://developer.android.com/studio">Android Studio</a> / <a href="https://kotlinlang.org/">Kotlin</a><br />
+Artificial Intelligence: <a href="https://cyberbotics.com/">Cyberbotics</a> / <a href="https://pandas.pydata.org/">Pandas</a> / <a href="https://www.tensorflow.org/">TensorFlow</a> / <a href="https://scikit-learn.org/stable/">Scikit-Learn</a> / <a href="https://seaborn.pydata.org/">Seaborn</a> /<a href="https://opencv.org/"> OpenCV</a> / <a href="https://pytorch.org/">PyTorch</a><br />
+Database: <a href="https://www.docker.com/">Docker</a> / <a href="https://www.jenkins.io/">Jenkins</a><br />
+Framework: <a href="https://www.djangoproject.com/">Django</a><br />
+Software: <a href="https://git-scm.com/">Git</a> / <a href="https://desktop.github.com/">GitHub Desktop</a>/<a href="https://www.scilab.org/"> Scilab</a>/ <a href="https://www.mathworks.com/products/matlab.html">Matlab</a> / <a href="https://www.postman.com/">Postman</a><br />
+Graphics Design: <a href="https://www.adobe.com/products/photoshop.html">Photoshop</a> / <a href="https://www.adobe.com/products/illustrator.html#%3A~%3Atext%3DAdobe%20Illustrator%20is%20the%20industry%2Cfor%20Patterns%20or%20Global%20Edits">Illustrator</a> / <a href="https://obsproject.com/">OBS</a> / <a href="https://www.blackmagicdesign.com/products/davinciresolve">DaVinci resolve</a> / <a href="https://ezgif.com/maker">Gif</a> / <a href="https://shotcut.org/">Shotcut</a> / <a href="https://www.blender.org/">Blender</a> / <a href="https://kdenlive.org/en/">Kdenlive</a> / <a href="https://www.gimp.org/">Gimp </a><br />
+Operating Systems: <a href="https://www.kernel.org/">Linux</a> / <a href="https://www.microsoft.com/en-us/windows">Windows</a> / <a href="https://support.apple.com/guide/mac-help/welcome/mac">Mac Apple</a><br />
+Document Preparation: Office Tools (<a href="https://www.libreoffice.org/">LibreOffice</a>, <a href="https://www.office.com/">Microsoft Office</a>) / <a href="https://www.overleaf.com/">Latex</a><br />
+Web Server: <a href="https://www.apachefriends.org/">XAMPP</a> / <a href="https://tomcat.apache.org/">Tomcat Apache</a></p>
 
 <strong>HOBBIES AND INTERESTS</strong><br />
 <a href="https://en.wikipedia.org/wiki/Historiography">Historiography</a> | <a href="https://en.wikipedia.org/wiki/Archaeology">Archaeology</a> | <a href="https://en.wikipedia.org/wiki/Agronomy">Agronomy</a> | <a href="https://en.wikipedia.org/wiki/Swimming">Swimming</a> |<a href="https://en.wikipedia.org/wiki/Camping"> Camping</a> | <a href="https://en.wikipedia.org/wiki/Documentary_film">Documentaries</a> | <a href="https://en.wikipedia.org/wiki/Chronometry">Horology</a> | <a href="https://en.wikipedia.org/wiki/Underwater_diving">Diving</a> | <a href="https://en.wikipedia.org/wiki/Fountain_pen">Fountain Pens</a> | <a href="https://en.wikipedia.org/wiki/Film">Movies</a></p>
