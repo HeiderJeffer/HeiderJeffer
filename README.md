@@ -10,11 +10,11 @@ Food Sciences| Nutrition| Public Health| Consumer Psychology| Human Behaviour| S
 Climate Science| Environmental Science| Criminology</p>
 
 <p><strong>EDUCATION</strong><br />
-2022 <a href="https://www.unibz.it/">Free University of Bozen-Bolzano</a>, MSc in Computer Science.<br />
-2008 <a href="https://en.uobaghdad.edu.iq/">University of Baghdad</a>, BSc in Physics.<br />
-2004 <a href="https://muc.edu.iq/en">Al Mansour University College</a>, BSc in Operation Research.<br />
-2014 <a href="https://ethz.ch/en.html">ETH Z&uuml;rich</a>, Partial coursework completed towards&nbsp;MSc in Robotics, Systems and Control.<br />
-2014 <a href="https://www.usi.ch/en">Universit&agrave; della Svizzera italiana</a>, Partial coursework completed towards&nbsp;MSc in Artificial Intelligence.</p>
+2022 <a href="https://www.unibz.it/">Free University of Bozen-Bolzano</a> - MSc in Computer Science.<br />
+2008 <a href="https://en.uobaghdad.edu.iq/">University of Baghdad</a> - BSc in Physics.<br />
+2004 <a href="https://muc.edu.iq/en">Al Mansour University College</a> - BSc in Operation Research.<br />
+2014 <a href="https://ethz.ch/en.html">ETH Z&uuml;rich</a> - Partial coursework completed towards&nbsp;MSc in Robotics, Systems and Control.<br />
+2014 <a href="https://www.usi.ch/en">Universit&agrave; della Svizzera italiana</a> - Partial coursework completed towards&nbsp;MSc in Artificial Intelligence.</p>
 
 <p><strong>WORK EXPERIENCE</strong><br />
 2017 Seller on eBay <a href="https://www.ebay.it/usr/heidejeffe_0">eBay</a></p>
