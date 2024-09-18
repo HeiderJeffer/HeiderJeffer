@@ -14,8 +14,8 @@ Climate Science| Environmental Science| Criminology</p>
 
 <ul>
 	<li>2022 <a href="https://www.unibz.it/"><strong>Free University of Bozen-Bolzano</strong></a> - MSc in Computer Science.</li>
-	<li>2014 <a href="https://ethz.ch/en.html"><strong>ETH Z&uuml;rich</strong></a> - Partial coursework completed towards&nbsp;MSc in Robotics, Systems and Control.</li>
-	<li>2014 <a href="https://www.usi.ch/en"><strong>Universit&agrave; della Svizzera italiana</strong></a> - Partial coursework completed towards&nbsp;MSc in Artificial Intelligence.</li>
+	<li>2014 <a href="https://ethz.ch/en.html"><strong>ETH Z&uuml;rich</strong></a> - MSc in Robotics, Systems and Control.</li>
+	<li>2014 <a href="https://www.usi.ch/en"><strong>Universit&agrave; della Svizzera italiana</strong></a> - MSc in Artificial Intelligence.</li>
 	<li>2008 <a href="https://en.uobaghdad.edu.iq/"><strong>University of Baghdad</strong></a> - BSc in Physics.</li>
 	<li>2004 <a href="https://muc.edu.iq/en"><strong>Al Mansour University College</strong></a> - BSc in Operation Research.</li>
 </ul>
