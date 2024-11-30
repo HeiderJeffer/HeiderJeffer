@@ -3,6 +3,7 @@
 
 <p style="text-align: justify;"><img alt="heiderjeffer" src="https://komarev.com/ghpvc/?username=heiderjeffer&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" />&nbsp;</p>
 
+
 <p>Welcome to the website of Heider Jeffer: Researcher| Developer| Software Engineer| Software Architect<br />
 Artificial Intelligence| Machine Learning| Deep Learning| Simulation Modelation and Optimazition<br />
 Human Computer Interaction| History Science| Archival Science| Digital Humanities| Media Technology<br />
