@@ -25,7 +25,7 @@
 
 ## WORK EXPERIENCE
 
-- **2022 - Present**: Student Jobs, [Free University of Bozen-Bolzano](https://www.unibz.it/)
+- **2022**: Student Jobs, [Free University of Bozen-Bolzano](https://www.unibz.it/)
 - **2017 - Present**: Seller, [eBay](https://www.ebay.it/usr/heidejeffe_0)
 - **2014**: Student Jobs, [Università della Svizzera italiana](https://www.usi.ch/en) & [ETH Zürich](https://ethz.ch/en.html)
 
