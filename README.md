@@ -99,3 +99,17 @@ Climate Science| Environmental Science| Criminology</p>
 
 <p><a href="https://en.wikipedia.org/wiki/Historiography">Historiography</a> | <a href="https://en.wikipedia.org/wiki/Archaeology">Archaeology</a> | <a href="https://en.wikipedia.org/wiki/Agronomy">Agronomy</a> | <a href="https://en.wikipedia.org/wiki/Swimming">Swimming</a> |<a href="https://en.wikipedia.org/wiki/Camping"> Camping</a> | <a href="https://en.wikipedia.org/wiki/Documentary_film">Documentaries</a> | <a href="https://en.wikipedia.org/wiki/Chronometry">Horology</a> | <a href="https://en.wikipedia.org/wiki/Underwater_diving">Diving</a> | <a href="https://en.wikipedia.org/wiki/Fountain_pen">Fountain Pens</a> | <a href="https://en.wikipedia.org/wiki/Film">Movies</a></p>
 </body>
+
+
+### Legal Notice:  
+*“I authorize the processing of my personal data pursuant to art. 13 of Legislative Decree no. 196 of 30 June 2003 - ‘Personal Data Protection Code’ and art. 13 of GDPR 679/16 - ‘European Regulation on the Protection of Personal Data’.”*  
+
+---
+
+*Heider Jeffer*  
+*30th November 2024*  
+
+--- 
+
+
+Advancing Digital Business Innovation for SMEs through Informatics
