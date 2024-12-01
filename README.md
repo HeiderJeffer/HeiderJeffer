@@ -55,7 +55,7 @@
 
 - **Database & DevOps:** [Docker](https://www.docker.com/), [Jenkins](https://www.jenkins.io/), [Git](https://git-scm.com/), [GitHub Desktop](https://desktop.github.com/)
 
--**Software & Tools:** [Django](https://www.djangoproject.com/), [Scilab](https://www.scilab.org/), [Matlab](https://www.mathworks.com/products/matlab.html), [Postman](https://www.postman.com/)
+- **Software & Tools:** [Django](https://www.djangoproject.com/), [Scilab](https://www.scilab.org/), [Matlab](https://www.mathworks.com/products/matlab.html), [Postman](https://www.postman.com/)
 
 - **Graphics Design & Media:** [Photoshop](https://www.adobe.com/products/photoshop.html), [Illustrator](https://www.adobe.com/products/illustrator.html#%3A~%3Atext%3DAdobe%20Illustrator%20is%20the%20industry%2Cfor%20Patterns%20or%20Global%20Edits), [OBS](https://obsproject.com/), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Blender](https://www.blender.org/)
 
