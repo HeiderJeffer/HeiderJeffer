@@ -42,9 +42,9 @@
 ## DIGITAL SKILLS
 
 - **Programming Languages:** [Python](https://www.python.org/), [Java](https://www.eclipse.org/), [PHP](https://www.phpmyadmin.net/), [JavaScript](https://www.w3schools.com/js/), [Perl](https://www.perl.org/)
-
-- **Data Analysis & Tools**  [NVivo](https://lumivero.com/products/nvivo/), [Atlas.tis](https://atlasti.com/), [Minitab](https://www.minitab.com/en-us/), [R Project](https://www.r-project.org/)
-
+  
+- **Data Analysis & Tools:**  [NVivo](https://lumivero.com/products/nvivo/), [Atlas.tis](https://atlasti.com/), [Minitab](https://www.minitab.com/en-us/), [R Project](https://www.r-project.org/)
+  
 - **Task Automation:** [CMD](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd), [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3), [Bash](https://www.gnu.org/software/bash/)
 
 - **Frontend Development:** [HTML5](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/), [Bootstrap](https://getbootstrap.com/)
@@ -59,7 +59,7 @@
 
 - **Graphics Design & Media:** [Photoshop](https://www.adobe.com/products/photoshop.html), [Illustrator](https://www.adobe.com/products/illustrator.html#%3A~%3Atext%3DAdobe%20Illustrator%20is%20the%20industry%2Cfor%20Patterns%20or%20Global%20Edits), [OBS](https://obsproject.com/), [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve), [Blender](https://www.blender.org/)
 
-- **Operating Systems** [Linux](https://www.kernel.org/), [Windows](https://www.microsoft.com/en-us/windows), [macOS](https://support.apple.com/guide/mac-help/welcome/mac)
+- **Operating Systems:** [Linux](https://www.kernel.org/), [Windows](https://www.microsoft.com/en-us/windows), [macOS](https://support.apple.com/guide/mac-help/welcome/mac)
 
 - **Document Preparation:** [LibreOffice](https://www.libreoffice.org/), [Microsoft Office](https://www.office.com/), [LaTeX](https://www.overleaf.com/)
 
