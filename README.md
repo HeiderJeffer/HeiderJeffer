@@ -69,25 +69,13 @@
 
 ## LANGUAGE SKILLS
 
-- **Arabic**: Native Speaker
-- **English**: Full Professional Proficiency
-- **Italian**: Intermediate
+- **Arabic**: Native Speaker , **English**: Full Professional Proficiency , **Italian**: Intermediate
 
 ---
 
 ## HOBBIES AND INTERESTS
 
-- [Historiography](https://en.wikipedia.org/wiki/Historiography)
-- [Archaeology](https://en.wikipedia.org/wiki/Archaeology)
-- [Agronomy](https://en.wikipedia.org/wiki/Agronomy)
-- [Swimming](https://en.wikipedia.org/wiki/Swimming)
-- [Camping](https://en.wikipedia.org/wiki/Camping)
-- [Hiking](https://en.wikipedia.org/wiki/Hiking)
-- [Documentaries](https://en.wikipedia.org/wiki/Documentary_film)
-- [Horology](https://en.wikipedia.org/wiki/Chronometry)
-- [Diving](https://en.wikipedia.org/wiki/Underwater_diving)
-- [Fountain Pens](https://en.wikipedia.org/wiki/Fountain_pen)
-- [Movies](https://en.wikipedia.org/wiki/Film)
+- [Historiography](https://en.wikipedia.org/wiki/Historiography) , [Archaeology](https://en.wikipedia.org/wiki/Archaeology) , [Agronomy](https://en.wikipedia.org/wiki/Agronomy) , [Swimming](https://en.wikipedia.org/wiki/Swimming) , [Camping](https://en.wikipedia.org/wiki/Camping) , [Hiking](https://en.wikipedia.org/wiki/Hiking) , [Documentaries](https://en.wikipedia.org/wiki/Documentary_film) , [Horology](https://en.wikipedia.org/wiki/Chronometry) ,[Diving](https://en.wikipedia.org/wiki/Underwater_diving) , [Fountain Pens](https://en.wikipedia.org/wiki/Fountain_pen) , [Movies](https://en.wikipedia.org/wiki/Film)
 
 ---
 
