@@ -33,7 +33,7 @@
 
 ## PROJECTS
 
-- [MSc in Computer Science - Free University of Bozen-Bolzano](https://github.com/HeiderJeffer?tab=repositories&q=UNIBZ&type=&language=&sort=)
+- [MSc in Computer Science - Free University of Bozen-Bolzano](https://github.com/HeiderJeffer?tab=repositories&q=MSc+in+Computer+Science+UNIBZ&type=&language=&sort=)
 - [MSc in AI - ETH Zürich and USI](https://github.com/HeiderJeffer?tab=repositories&q=MSc+in+AI+ETH+ZURICH+and+USI&type=&language=&sort=)
 - [Research Proposals](https://github.com/HeiderJeffer?tab=repositories&q=rp&type=&language=&sort=)
 
