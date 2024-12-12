@@ -67,6 +67,15 @@
 
 ---
 
+## HONORS & AWARDS
+
+- Fully Funded Postgraduate Scholarship - Free University of Bozen-Bolzano
+- Fully Funded Postgraduate Scholarship - Università della Svizzera italiana
+- Fully Funded Postgraduate Scholarship - ETH Zürich
+- PinPoint Project Winner - Lean Startup - Free University of Bozen-Bolzano
+
+---
+
 ## LANGUAGE SKILLS
 
 - **Arabic**: Native Speaker , **English**: Full Professional Proficiency , **Italian**: Intermediate
